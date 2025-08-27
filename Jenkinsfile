@@ -10,7 +10,7 @@ tools{
 // it is not mandatory
 // write the name of the tool that you are using in the pipeline
 // we have configured this tool name in the manage jenkins --> tools section
-maven 'mymaven'
+maven 'my_maven'
 
 }
 
